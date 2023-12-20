@@ -60,7 +60,7 @@ I'm a passionate software developer. from Israel. I love exploring new technolog
 
 <details>
 
-<summary>More about me</summary>
+<!-- <summary>More about me</summary> -->
 
 <!-- Your additional information here -->
 
