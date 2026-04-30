@@ -4,7 +4,8 @@
 
 <!-- Introduction -->
 
-I'm a passionate software developer. from Israel. I love exploring new technologies and building innovative solutions. and enjoy working on [Any Specific Projects].
+I'm a passionate software developer. from Israel. I love exploring new technologies and building innovative solutions.
+<!-- and enjoy working on [Any Specific Projects]. -->
 
 <!-- GitHub Stats -->
 
