@@ -45,10 +45,6 @@ I'm a passionate software developer. from Israel. I love exploring new technolog
 
 ![Git](https://img.shields.io/badge/Version%20Control-Git-green?logo=git&logoColor=white)
 
-<!-- Visitors -->
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
-
 <!-- GitHub Extra Pins -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviel-lanzman&layout=compact)](https://github.com/aviel-lanzman)
