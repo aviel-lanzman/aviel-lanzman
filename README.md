@@ -5,7 +5,7 @@ I'm a passionate software developer from Israel. I love exploring new technologi
 <!-- GitHub Stats & Languages Side by Side -->
 <p >
   <a style="margin: 0 10px 0 10px;" href="https://github.com/aviel-lanzman">
-    <img src="https://github-stats-extended-frontend-nc2c.vercel.app/api?username=aviel-lanzman&theme=radical&show_icons=true&hide=contribs,prs" alt="GitHub Stats"  />
+    <img src="https://github-stats-extended-frontend-nc2c.vercel.app/api?username=aviel-lanzman&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Anurag%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="GitHub Stats"  />
   </a>
   <a style="margin: 0 10px 0 10px;" href="https://github.com/aviel-lanzman">
     <img src
